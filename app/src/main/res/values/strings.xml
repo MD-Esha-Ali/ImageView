@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="Toast">You Have Toast Clicked Login Button</string>
+</resources>
